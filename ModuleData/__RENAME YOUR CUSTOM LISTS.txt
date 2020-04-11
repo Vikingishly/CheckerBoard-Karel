@@ -1,0 +1,3 @@
+Rename your custom items lists.
+Change the entry in the config file to reflect your custom name.
+This will prevent it getting overwritten during mod updates.
